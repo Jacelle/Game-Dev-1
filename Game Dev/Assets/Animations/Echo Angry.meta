@@ -1,6 +1,10 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Game Dev/Assets/Animations/Echo Angry.meta
 guid: 912b6b4e97bee4d42bf466e2915ff45d
 folderAsset: yes
+========
+guid: c2977ea9c52e9824688491c7c6d3f490
+>>>>>>>> upstream/Master:Game Dev/Assets/Plugins/SimpleInput/ExtraResources.unitypackage.meta
 DefaultImporter:
   externalObjects: {}
   userData: 
